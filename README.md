@@ -1,9 +1,8 @@
 ### Hi there i'm Felipe
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Azure
+- 🔭 I’m Aplication Developer
+- 🌱 I’m currently learning 
 - 📫 How to reach me: mercuriofelipe10@gmail.com
-- 😄 Pronouns: he/him
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Mercurio&show_icons=true&theme=tokyonight)](https://github.com/Felipe-Mercurio/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Mercurio&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/Felipe-Mercurio/github-readme-stats)
