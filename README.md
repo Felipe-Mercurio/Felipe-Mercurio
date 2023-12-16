@@ -1,7 +1,6 @@
 ### Hi there i'm Felipe
 
 - 🔭 I’m Aplication Developer
-- 🌱 I’m currently learning 
 - 📫 How to reach me: mercuriofelipe10@gmail.com
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Mercurio&show_icons=true&theme=tokyonight)](https://github.com/Felipe-Mercurio/github-readme-stats)
